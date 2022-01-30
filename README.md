@@ -26,6 +26,8 @@ git merge (name of the branch) : merge both branches
 
 git diff (name of branch): it shows the changes/differences of both branches
 
-pr : pull request. its a request to pull the code to another branch
-=======
->>>>>>> refs/remotes/origin/feature-readme-instructions
+# pr : pull request. its a request to pull the code to another branch
+
+> > > > > > > refs/remotes/origin/feature-readme-instructions
+
+git branch -d (name of the branch) : deletes the branch
