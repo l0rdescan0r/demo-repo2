@@ -18,3 +18,11 @@ git checkout -b (name) : -b create new branch then give a name.
 ## Local Development
 
 1. Open index.html in your browser.
+
+2. this is the master.
+
+git merge (name of the branch) : merge both branches
+
+git diff (name of branch): it shows the changes/differences of both branches
+
+pr : pull request. its a request to pull the code to another branch
