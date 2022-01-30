@@ -18,3 +18,5 @@ git checkout -b (name) : -b create new branch then give a name.
 ## Local Development
 
 1. Open index.html in your browser.
+
+2. this is the master.
